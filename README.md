@@ -1,5 +1,5 @@
 # SuperColliderMidiSynths
-Collections of Midi enabled synths created by me with Supercollider
+Collections of Midi enabled synths created with Supercollider
 
 ## Synths:
 
